@@ -265,10 +265,11 @@ footer {
 
 	 	font-size: 14px;
 	 	font-weight: bold;
-	 	margin: 15px 0 15px 0; 
+	 	margin: 15px 0 15px; 0; 
 	 }
 
 	 h3 {
 	 	font-size: 13px;
+
 	 }
 }
